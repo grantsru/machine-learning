@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning | Andrew Ng
 A repository for all of my hand-written notes and scripts for machine learning, taught by Andrew Ng
 
 #### Video Repository:
